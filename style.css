@@ -319,3 +319,8 @@ button:hover {
   text-align: center;
   cursor: pointer;
 }
+
+.hifi{
+  width: 10px;
+  height: 10px;
+}
